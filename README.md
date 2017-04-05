@@ -1,2 +1,2 @@
-# Implementation of the incremental oblique Random Forest in the following paper:
+# Coming Soon!
 Robust Visual Tracking Using Oblique Random Forests
