@@ -1,7 +1,7 @@
 This code is for the simple RaF tracker using HOG feature published in the following paper.
  Zhang, Le, et al. "Robust Visual Tracking Using Oblique Random Forests.", IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2017), Hawaii, July, 2017
 
-The proposed RaF is oblique and can incrementally update all internal node in a closed-from fashion. See my homepage for more details on oblique randmoized decision tree ensemble:
+The proposed RaF is oblique and can incrementally update all internal nodes in a closed-from fashion. See my homepage for more details on oblique randmoized decision tree ensemble:
 
 https://sites.google.com/site/zhangleuestc/home
 
