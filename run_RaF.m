@@ -1,9 +1,4 @@
-%% Copyright (C) Naiyan Wang and Dit-Yan Yeung.
-%% Learning A Deep Compact Image Representation for Visual Tracking. (NIPS2013')
-%% All rights reserved.
 
-% initialize variables
-% clc; clear;
 function results=run_RaF(seq, res_path, bSaveImage)
 close all
     rand('state',0);  randn('state',0);
