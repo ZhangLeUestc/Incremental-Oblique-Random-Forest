@@ -13,9 +13,4 @@ function tmpl = samplePos(frame, param0, sz)
             c = c + 1;
         end
     end
-    temp = warpimg(frame, param0, sz);
-    temp= double(fhog(single( temp) , 4, 9));
-    temp(:,:,end) = [];
-    tmpl(:, c) = temp(:);
-
 end
